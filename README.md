@@ -18,4 +18,4 @@ Migration fixes repair outgoing vertex references after flips and face represent
 
 Predicates use JavaScript floating-point arithmetic, not adaptive exact predicates. The enclosing triangle uses a finite margin (1,024 times the input span); this is a practical repair for the tested data, not a proof for all inputs. Extreme scales and nearly collinear/cocircular data remain numerical risks. Boundary pruning is not constrained Delaunay triangulation: it does not insert polygon edges. Tests are regression evidence, not exhaustive geometric verification. The original large terrain datasets are not included.
 
-See [ATTRIBUTION.md](ATTRIBUTION.md) before publication.
+See [ATTRIBUTION.md](ATTRIBUTION.md) for source credits and provenance.

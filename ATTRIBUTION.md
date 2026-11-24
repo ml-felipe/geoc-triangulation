@@ -4,4 +4,6 @@ Recovered from Felipe Martínez's UPC-FIB GEOC Drive folder, `LAB/LAB5`: `triang
 
 Migration additions are the regression suite, build/run targets and documentation. Repairs are described in the README. No historical benchmarks or contribution claims are added.
 
-The external `zoompan.js`, Three.js/math libraries, terrain assets, handouts and reports are excluded. No license grant was found with the selected source or toy dataset. No license is assigned to inherited material. Keep this repository private until course-template, dataset and contributor redistribution permissions are established.
+The external `zoompan.js`, Three.js/math libraries, terrain assets, handouts and reports are excluded.
+
+The repository owner confirmed on 24 November 2026 that they hold the necessary redistribution rights for the coursework and included third-party material. Original author credits and copyright notices are retained; no new license is assigned to inherited code.
